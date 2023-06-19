@@ -3,16 +3,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 <b>Fetal Health Classification (Pyspark) </b>
-   - Executed multiclass classification with multiple algorithms using PySpark and Spark SQL in Databricks.
-   - Achieved 96% of accuracy in a pruned decision tree and 96.6% of recall score with hyperparameter tuning.
+   
      
 <b>Smoke Detector Device (Python) </b>
-   - Modeled various classification models to predict the case of true fire in the smoke detector dataset in Python
-   - Attained over 95% accuracy with only a 0.005% misclassification rate after model optimization.
+  
      
 <b>Sales Prediction of a US chain store (R) </b>
-   - Executed quantitative, statistical, and exploratory data analysis to predict sales and the factors affecting them.
-   - Discovered different patterns and derived actionable insights to help build effective marketing strategies.
+   
 
 
 
