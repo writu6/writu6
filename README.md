@@ -9,6 +9,7 @@
   
      
 <b>Sales Prediction of a US chain store (R) </b>
+https://github.com/writu6/SalesPrediction
    
 
 
